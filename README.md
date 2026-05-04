@@ -15,7 +15,7 @@ A chatbot application built with Streamlit (frontend) and FastAPI (backend), usi
 * Google OAuth credentials
 
 ## 🎥 Video Demo
-[Link video demo]([(https://drive.google.com/drive/u/0/folders/1jZ98gEsScT6e2BU7ukLzAqhMOVVuEUd2)])
+[Link video demo](https://drive.google.com/drive/u/0/folders/1jZ98gEsScT6e2BU7ukLzAqhMOVVuEUd2)
 
 ## ⚙️ Installation
 ### 1. Clone repository
