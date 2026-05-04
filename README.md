@@ -14,6 +14,9 @@ A chatbot application built with Streamlit (frontend) and FastAPI (backend), usi
 * Firebase project (Authentication + Firestore)
 * Google OAuth credentials
 
+## 🎥 Video Demo
+[Link video demo]([YOUR_VIDEO_LINK_HERE](https://drive.google.com/drive/u/0/folders/1jZ98gEsScT6e2BU7ukLzAqhMOVVuEUd2))
+
 ## ⚙️ Installation
 ### 1. Clone repository
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
